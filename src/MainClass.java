@@ -2,9 +2,9 @@ public class MainClass
 {
     public static void main(String[] args) {}
 
-    private static int class_number = 20;
-    public static int getClassNumber()
+    private static String class_string = "hello, world";
+    public static String getClassString()
     {
-        return class_number;
+        return class_string;
     }
 }
